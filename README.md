@@ -1,4 +1,7 @@
 # concourse-php-resource
+
+DEPRECATED in favour of new builds [docker-php](https://github.com/scottasmith/docker-php) on [Dockerhub](https://hub.docker.com/r/scottsmith/php)
+
 [concourse.ci](https://concourse.ci/ "concourse.ci Homepage") for running PHP unit tests
 
 ## Simply a PHP image with a few more extensions installed ready for testing code
